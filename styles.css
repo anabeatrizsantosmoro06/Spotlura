@@ -1,0 +1,33 @@
+body{
+    color:white;
+    background: rgb(56, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+
+
+
+
+.spotlura{
+    font-size: 25px;
+    margin-left: 550px;
+    
+}
+
+
+
+.nomealbum1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:30px;
+margin-left: 600px;
+}
+
+.nomealbum2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-bottom: 20px;
+}
